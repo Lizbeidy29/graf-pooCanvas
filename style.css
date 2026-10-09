@@ -1,0 +1,20 @@
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    margin: 0;
+
+    /* Fondo rosa */
+    background-color: #FF69B4;
+}
+
+canvas {
+    display: block;
+    border: 3px solid #FFFFFF;
+    background-color: #FFB6D9;
+    max-width: 96vw;
+    height: auto;
+    box-shadow: 0 0 25px rgba(150, 0, 80, 0.35);
+}
